@@ -2,7 +2,7 @@ Good afternoon team,
 This is Thummala challa bhardvaj .First of all thanks for the oppurtinity at RetainSure.
 
 *********RetainSure Assigment*****************
--->Firstly I don't have any hands on experience with flask but I did understood a lot about assingment as I know python and how API endpoints work and how to connect with Sqlite.
+-->Firstly I choose "Messy migration" as I understood the problem .Secondly I don't have any hands on experience with flask but I did understood a lot about assingment as I know python and how API endpoints work and how to connect with Sqlite.
 
 
 ## Major Issues Identified
